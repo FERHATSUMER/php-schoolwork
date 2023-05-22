@@ -69,7 +69,7 @@
                         'bilgi' => 'Mohamed Salah, Mısırlı futbolcu...'
                     ),
                     array(
-                        'baslik' => 'Haber Başlığı 7',
+                        'baslik' => 'Haber Başlığı ',
                         'icerik' => 'Haber içeriği 7',
                         'tarih' => '2023-05-15',
                         'resim' => 'futbolcu7.jpg',
